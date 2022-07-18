@@ -1,0 +1,8 @@
+header 
+Main
+      Home
+      About 
+      Skills and experience 
+      Portfolio
+      Contact us  
+footer
